@@ -1,0 +1,12 @@
+
+W
+java:S11418"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Š¤ÀØ1
+>
+java:S1170"!Make this final field static too.(–²„Å8šŠ¤ÀØ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8›Š¤ÀØ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8›Š¤ÀØ1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8›Š¤ÀØ1
+]	java:S125:"<This block of commented-out lines of code should be removed.(¼¨õôüÿÿÿÿ8¡Š¤ÀØ1
