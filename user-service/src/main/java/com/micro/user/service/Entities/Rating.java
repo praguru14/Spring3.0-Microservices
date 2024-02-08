@@ -1,11 +1,12 @@
 package com.micro.user.service.Entities;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Transient;
+
 import lombok.*;
 import org.hibernate.proxy.HibernateProxy;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Transient;
 import java.util.Objects;
 
 @Data

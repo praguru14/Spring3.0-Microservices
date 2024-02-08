@@ -1,8 +1,9 @@
 
 2
-java:S1700"Rename field "rating"(™¾Ôü8øıç—Ø1
+java:S1700"Rename field "rating"(™¾Ôü8øıç—Ø1
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«êŞÄÿÿÿÿÿ
 \
-java:S1128"?Remove this unused import 'org.hibernate.proxy.HibernateProxy'.(¹¡€Ã8ïÄùºØ1
+java:S1128"?Remove this unused import 'org.hibernate.proxy.HibernateProxy'.(¹¡€Ã8€øšÉØ1
 K
-java:S1128	".Remove this unused import 'java.util.Objects'.(¼¸õ›8ïÄùºØ1
+java:S1128
+".Remove this unused import 'java.util.Objects'.(¼¸õ›8øšÉØ1
