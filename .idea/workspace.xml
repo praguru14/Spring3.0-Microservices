@@ -4,144 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093bc2cc-abdd-42dd-b292-531910e06fa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Microservices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e7a1e40eaf3d7455a289720cbabf6012b29f14f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13838f17516d522cf6006d130f4d7fe3aa7ba01e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1fedf24455fc865bc043768589b1dfadf0f1b7ba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/203b3ccbe0ed9393dee0524e71ccf7771e999373" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4650da57fd64cf2aff0daec23405731d282b91b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47730344a3c44747fd52060701620f196ed12009" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49641d3161930dcd2802799ebfbff4b2d8919159" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/498855fff24fac789999d786f82539c8fe02e4bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f99f9a02f62f9035bcef3188eaa97a58264ad84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/550233b87d6739a30548a6be2ec04e42856ce53d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55744d70dcf08fc5f4682d4d159e1f4a56561b57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d38650c87339b391f6cf401983c48c49971171b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c09d7d1481d4616cf000b4587dc133836557c9a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e4609b9c90cc88f877507880c65929e15b81ca3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94b47bc34f040f0fd8852ed9bf168d4a458209f6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dbe7a8c13af4ba226764f46e15587752be48e47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a522bfd05d2d23e5180349eafdca27f802678798" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f9283f8dab5831b1d229fda28d369a7657ef39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b197a871e51a9cc820129a899c018011a692b4a1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b87fb4aa681dc1f9d55ca61f6bc7ca5f9b3c1cf6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdfb7399f2db87e621ea78c39d013e4c14c15355" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6e6483d88553e2147238e051102a3c9d2ea4746" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6f1bf926f6e3dac6b7b26795be0584ffd8a1ef2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2f5d1978e5f519100a679c4109f89296278badc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3325bca00ccc7695d7b2a810a503bd14c5d3941" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d603dca4babe6b92bf8234abe7f7c922137a23f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d66aacecd82a02ce43135cac5aac91d46bf1405b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da421167f1071e92cf85911093bef22a21f97a22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbf7039c13b91a48c229e5ff05316e70e8fddcfb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c31dc5eaadbf42e58abcc645bd1549eafa34d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/e/0e7a1e40eaf3d7455a289720cbabf6012b29f14f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/3/13838f17516d522cf6006d130f4d7fe3aa7ba01e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1fedf24455fc865bc043768589b1dfadf0f1b7ba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/0/203b3ccbe0ed9393dee0524e71ccf7771e999373" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/6/4650da57fd64cf2aff0daec23405731d282b91b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/7/47730344a3c44747fd52060701620f196ed12009" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/49641d3161930dcd2802799ebfbff4b2d8919159" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/498855fff24fac789999d786f82539c8fe02e4bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/f/4f99f9a02f62f9035bcef3188eaa97a58264ad84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/550233b87d6739a30548a6be2ec04e42856ce53d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/5/55744d70dcf08fc5f4682d4d159e1f4a56561b57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5d38650c87339b391f6cf401983c48c49971171b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7c09d7d1481d4616cf000b4587dc133836557c9a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e4609b9c90cc88f877507880c65929e15b81ca3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/4/94b47bc34f040f0fd8852ed9bf168d4a458209f6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9dbe7a8c13af4ba226764f46e15587752be48e47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a522bfd05d2d23e5180349eafdca27f802678798" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a9f9283f8dab5831b1d229fda28d369a7657ef39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b197a871e51a9cc820129a899c018011a692b4a1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/8/b87fb4aa681dc1f9d55ca61f6bc7ca5f9b3c1cf6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bdfb7399f2db87e621ea78c39d013e4c14c15355" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c6e6483d88553e2147238e051102a3c9d2ea4746" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c6f1bf926f6e3dac6b7b26795be0584ffd8a1ef2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/2/d2f5d1978e5f519100a679c4109f89296278badc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/3/d3325bca00ccc7695d7b2a810a503bd14c5d3941" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d603dca4babe6b92bf8234abe7f7c922137a23f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d66aacecd82a02ce43135cac5aac91d46bf1405b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/da421167f1071e92cf85911093bef22a21f97a22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbf7039c13b91a48c229e5ff05316e70e8fddcfb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1c31dc5eaadbf42e58abcc645bd1549eafa34d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/micro/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/micro/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/ExceptionHandler/DuplicateUsernameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/ExceptionHandler/GlobalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/ExceptionHandler/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/HotelServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/Repo/HotelRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/Services/HotelServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/controllers/HotelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/java/com/micro/hotel/service/entities/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hotel-service/src/test/java/com/micro/hotel/service/HotelServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/ExceptionHandler/DuplicateUsernameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/ExceptionHandler/GlobalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/ExceptionHandler/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/RatingsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/Repo/RatingRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/Services/RatingServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/controllers/RatingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/java/com/micro/ratings/entities/Ratings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratings/src/test/java/com/micro/ratings/RatingsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/src/main/java/com/micro/servicereg/ServiceRegApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-reg/src/test/java/com/micro/servicereg/ServiceRegApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/Entities/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/Entities/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/Entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/ExceptionHandler/DuplicateUsernameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/ExceptionHandler/GlobalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/ExceptionHandler/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/controllers/UserControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/external/services/HotelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/external/services/RatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/repositories/UserRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/micro/user/service/services/UserServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bee81872141e8506c568ce6e385eff8df42e229c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/e/bee81872141e8506c568ce6e385eff8df42e229c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="093bc2cc-abdd-42dd-b292-531910e06fa8" name="Changes" comment="Added 3 Microservices.iml, which can communicate to each other">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-ser/config-ser/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config-ser/config-ser/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config-ser/config-ser/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -183,6 +47,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -213,6 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/pragu/OneDrive/Documents/Microservices/api-gateway",
@@ -307,6 +173,31 @@
       <option name="presentableId" value="Default" />
       <updated>1707281088509</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added 3 Microservices.iml, which can communicate to each other">
+      <option name="closed" value="true" />
+      <created>1707385763200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707385763200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added 3 Microservices.iml, which can communicate to each other">
+      <option name="closed" value="true" />
+      <created>1707385868064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707385868064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added 3 Microservices.iml, which can communicate to each other">
+      <option name="closed" value="true" />
+      <created>1707385891150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707385891150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -325,5 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding a few services" />
+    <MESSAGE value="Added 3 Microservices.iml, which can communicate to each other" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3 Microservices.iml, which can communicate to each other" />
   </component>
 </project>
